@@ -1,3 +1,3 @@
-module github.com/pluralsite/webservice
+module github.com/pluralsight/webservice
 
 go 1.16
